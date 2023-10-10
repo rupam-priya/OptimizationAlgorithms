@@ -1,8 +1,6 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 
-![Screenshot_20221216_120942.png](attachment:Screenshot_20221216_120942.png)
-
 G = nx.DiGraph()
 
 edges = [(1,2,{'weight':223}), (1,5,{'weight':197}),
